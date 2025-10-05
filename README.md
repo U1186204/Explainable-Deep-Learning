@@ -1,5 +1,4 @@
 # Explainable-Deep-Learning
-[![CI](https://github.com/U1186204/Explainable-Deep-Learning/actions/workflows/ci.yml/badge.svg)](https://github.com/U1186204/Explainable-Deep-Learning/actions/workflows/ci.yml)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black.svg?logo=github&style=for-the-badge)](https://github.com/U1186204/Explainable-Deep-Learning/tree/main)
 
