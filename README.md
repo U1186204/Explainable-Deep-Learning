@@ -12,9 +12,13 @@
 *Graduate Student at Duke Univesity*
 
 
+
 ### Abstract
 
 This work examines the image classification for 8 microorganism classes: Amoeba, Euglena, Hydra, Paramecium, Rod_bacteria, Spherical_bacteria,Spiral_bacteria, Yeast. First, it runs the Inception V3 model to perform image classificaiton of the micro-orgnism images in the dataset. Then it evaluates the model's last layer using the XAI technique GradCAM. Lastly, it employs 2 GradCAM variants for the image heatmap classifier evluation: GradCAM++ and HiResCAM.
+
+### Project Flowchart
+<img width="1517" height="602" alt="image" src="https://github.com/user-attachments/assets/2410b833-85df-4adf-8cc9-c4be33739614" />
 
 
 ### Project Tree
