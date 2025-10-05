@@ -1,1 +1,20 @@
 Used Gemni 2.5 PRO to assist in producing the first iteration of GradCAM on 10/2/2025 at 3:39PM
+
+___________________________________________________________________________________________________
+Used Gemni 2.5 PRO to assist in producing the visuals for GradCAM on 10/2/2025 at 4:21PM
+
+___________________________________________________________________________________________________
+Used Calude Sonnet 4 to assist in producing the heatmap function for GradCAM++ on 10/5/2025 at 10:08 AM
+
+___________________________________________________________________________________________________
+Used Calude Sonnet 4 to assist in producing the visuals for GradCAM++ on 10/5/2025 at 10:21 AM
+
+___________________________________________________________________________________________________
+Used Calude Sonnet 4 to assist in producing the heatmap fucntion for HiResCAM on 10/5/2025 at 11:03 AM
+
+___________________________________________________________________________________________________
+Used Calude Sonnet 4 to assist in producing the visuals for HiResCAM on 10/5/2025 at 11:30 AM
+
+___________________________________________________________________________________________________
+
+
