@@ -22,6 +22,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      
-      - name: Run notebook to test for errors
-        run: jupyter nbconvert --to notebook --execute main.ipynb
+
+#Not running notebook due to GPU necessity
+
+
