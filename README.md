@@ -2,7 +2,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black.svg?logo=github&style=for-the-badge)](https://github.com/U1186204/Explainable-Deep-Learning/tree/main)
 
-
+[![CI](https://img.shields.io/github/actions/workflow/status/U1186204/Explainable-Deep-Learning/ci.yml?style=for-the-badge&logo=githubactions)](https://github.com/U1186204/Explainable-Deep-Learning/actions/workflows/ci.yml)
 
 **by Christian Moreira**
 
